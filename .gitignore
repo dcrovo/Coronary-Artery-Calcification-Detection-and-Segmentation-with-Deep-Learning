@@ -154,3 +154,5 @@ data_mask/
 Docs/
 dataset/
 masks/
+train_data/
+files_errors.txt
